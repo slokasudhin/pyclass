@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddd35abd-0c02-4af3-aeed-f2eb58415a50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hello_world.py/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_world.py/helloWorld.py" afterDir="false" />
-    </list>
+    <list default="true" id="ddd35abd-0c02-4af3-aeed-f2eb58415a50" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +16,9 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,7 +80,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="520" />
+    <option name="x" value="518" />
     <option name="y" value="289" />
     <option name="width" value="1367" />
     <option name="height" value="772" />
@@ -93,8 +90,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,9 +166,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="292" width="1367" height="772" extended-state="0" />
+    <frame x="518" y="289" width="1367" height="772" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26113206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26490566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
